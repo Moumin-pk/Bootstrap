@@ -1,0 +1,17 @@
+
+
+
+Breakpoint     Class infix     Dimensions
+X-Small           None           <576px    => Mobile
+small              sm            >=576px   => Tablet
+medium             md            >=768px   => small-laptop
+large              lg            >=992px   => laptop
+Extra Large        xl            >=1200px  => 
+extra extre large  xxl           >= 1400px
+
+none  => 0px - 576px     |
+sm    => 576px - 768px   |    Mobile
+md    => 768px - 992px     |
+lg    => 992px - 1200px    |  Desktop
+xl    => 1200px - 1400px   | 
+xxl   => 1400px - >          | Big Screen
