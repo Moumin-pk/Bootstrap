@@ -1,0 +1,18 @@
+.container-fluid{
+    background-color: crimson;
+}
+.container{
+    background-color: cornflowerblue;
+}
+.container-md{
+    background-color: coral;
+}
+.container-lg{
+    background-color: burlywood;
+}
+.container-xl{
+    background-color: chartreuse;
+}
+.container-xxl{
+    background-color: cyan;
+}
